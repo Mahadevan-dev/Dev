@@ -1,9 +1,5 @@
 
 
-
-
-
-
 Welcome To Telusko Kitchen
 
 
@@ -18,3 +14,5 @@ Pizza
 
 
 Thank Q :)
+
+Done My Changes
