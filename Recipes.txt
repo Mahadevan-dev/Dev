@@ -1,9 +1,5 @@
 
 
-
-
-
-
 Welcome To Telusko Kitchen
 
 
@@ -13,7 +9,13 @@ Pasta
 Chicken Fry
 
 
+Beans
+Pizza
+
+
 Thank Q :)
 
+
+Done My Changes
 
 final copy
